@@ -1,2 +1,2 @@
-aman.txt
-.gitignore
+/aman.txt
+/.gitignore
